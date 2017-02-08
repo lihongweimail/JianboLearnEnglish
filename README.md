@@ -3,9 +3,9 @@ Jianbo Learn English MIS system
 
 this is a mis system for private purpose
 
-# II. there are two main directorys
+# II. there are two main directories
 ## one is "sources"
-## one is "distribution"
+## the other is "distribution"
 
 
 
